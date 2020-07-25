@@ -1,4 +1,7 @@
 * text=auto
 
 *.jpg binary
-*.png binary 
+*.png binary
+*.gif binary
+
+*.sql binary 
